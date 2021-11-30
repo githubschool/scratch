@@ -1,3 +1,3 @@
 Custom text 2
 
-A new text through GItHub editor
+A new text through GitHub editor
