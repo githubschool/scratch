@@ -12,3 +12,4 @@ posle liste
 -[checklist]
 -[drugi check list]
 
+tekst
